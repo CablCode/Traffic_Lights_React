@@ -1,0 +1,29 @@
+.allLights {
+    background-color: black;
+    width: 200px;
+    height: 400px;
+    padding: 2.5rem;
+}
+
+.light {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.shining {
+    box-shadow: 0 0 70px 60px white;
+    border-width: 20px;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
